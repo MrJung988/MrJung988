@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrJung988
 - 👀 I’m interested in web developing.
-- 🌱 I’m currently learning html, css, javascript and php.
+- 🌱 I’m currently learning html, css, javascript and php. (And Laravel as framework)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

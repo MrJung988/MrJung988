@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Laravel Projects.**
 
-- 🌱 I’m currently learning **laravel, bagisto, etc**
+- 🌱 I’m currently learning **laravel, react, etc**
 
 - 👨‍💻 All of my projects are available at [samirkarki.com.np](samirkarki.com.np)
 
